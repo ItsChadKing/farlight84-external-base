@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "External.Farlight84", "External.Farlight84\External.Farlight84.csproj", "{E7EC3C5A-976C-491C-8DB8-F81A4D4E4254}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7EC3C5A-976C-491C-8DB8-F81A4D4E4254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7EC3C5A-976C-491C-8DB8-F81A4D4E4254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7EC3C5A-976C-491C-8DB8-F81A4D4E4254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7EC3C5A-976C-491C-8DB8-F81A4D4E4254}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A620F5C-7ACE-496F-9FF8-BBF15B068DBD}
+	EndGlobalSection
+EndGlobal
